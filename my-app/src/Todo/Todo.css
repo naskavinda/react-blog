@@ -1,0 +1,15 @@
+.todo-item {
+    padding: 12px 16px;
+    background-color: white;
+    border-radius: 6px;
+    margin: 8px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #333;
+    min-width: 360px;
+    border: 1px solid #e1e1e1;
+    transition: transform 0.2s ease;
+}
+
